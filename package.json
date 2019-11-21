@@ -1,0 +1,16 @@
+{
+  "name": "sum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node main.js",
+    "test": "mocha",
+    "prettify": "prettier --write src/*.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
