@@ -12,5 +12,8 @@
     "prettify": "prettier --write src/*.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0"
+  }
 }
